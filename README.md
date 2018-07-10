@@ -1,2 +1,2 @@
 # AutocompleteProject
-A simple Javascript/jQuery widget to provide auto-completing drop-down list functionality.
+Spent about 1-2 hours on this. This is a simple Javascript/jQuery widget to provide auto-completing drop-down list functionality. It displays an input field that "autocompletes" by filtering dropdown options with matching elements that begin with the text that the user has typed. As the selected dropdown option changes, the result of the selection is updated and displayed on the page.
